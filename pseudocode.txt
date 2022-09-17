@@ -1,0 +1,20 @@
+WRITE "kodemenu" with number
+
+STORE "kodemenu" = 1" with price 10000
+STORE "kodemenu" = 2" with price 15000
+
+IF " kodemenu = 1" with number
+    PRINT "bakso"
+ELSE 
+    PRINT "sate'
+
+WRITE "jumlahmenu" with number
+
+WHILE "jumlahmenu" < 2
+    DO "jumlahmenu"
+
+    READ "totalharga1 = jumlahmenu x harga" with number
+    READ "totalharga1 = jumlahmenu x harga" with number
+
+    STORE "hasil" with CALCULATE "totalharga" multilpy by "totalharga"
+    PRINT "hasil"

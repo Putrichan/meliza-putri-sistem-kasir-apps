@@ -1,1 +1,5 @@
 # meliza-putri-sistem-kasir-apps
+
+FINAL PROJECT (SOFTWARE ENGINEERING)
+
+MELIZA-PUTRI-BE2845212
